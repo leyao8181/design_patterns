@@ -1,4 +1,4 @@
-package com.devin.design_patterns;
+package com.devin.design_patterns.observer;
 
 public class TestClass {
     public static void main(String[] args) {

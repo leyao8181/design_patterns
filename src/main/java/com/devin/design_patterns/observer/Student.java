@@ -1,4 +1,4 @@
-package com.devin.design_patterns;
+package com.devin.design_patterns.observer;
 
 import java.util.Observable;
 import java.util.Observer;

@@ -1,4 +1,4 @@
-package com.devin.design_patterns;
+package com.devin.design_patterns.observer;
 
 import lombok.Data;
 
