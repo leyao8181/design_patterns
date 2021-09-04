@@ -7,6 +7,6 @@ public class TestClass {
         Student mic = new Student("mic");
         teacher.addObserver(tom);
         teacher.addObserver(mic);
-        teacher.say("同学们，大家好！");
+        teacher.say("同学们，大家好!！");
     }
 }
